@@ -5,3 +5,6 @@ tes jenkis triger
  
  
  trigger ketiga kalinya bismillah bisa
+
+
+trigger keempat kalinya pasti bisa ke trigger build otomatis
